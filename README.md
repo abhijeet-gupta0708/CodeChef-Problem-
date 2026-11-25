@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
 - [math](#math) (2)
@@ -26,6 +27,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 
 ### games
 
