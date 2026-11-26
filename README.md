@@ -6,19 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 7 |
+| 6 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -26,6 +27,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### constructive algorithms
@@ -66,6 +68,12 @@
 |---|---------|------------|----------|
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 
 ---
 
