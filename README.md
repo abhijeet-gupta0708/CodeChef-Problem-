@@ -6,22 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 9 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.cpp) |
 
 ### brute force
 
@@ -46,6 +53,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
