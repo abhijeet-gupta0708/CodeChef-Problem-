@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 9 |
+| 10 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
@@ -29,6 +29,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.cpp) |
+| 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.cpp) |
 
 ### brute force
 
