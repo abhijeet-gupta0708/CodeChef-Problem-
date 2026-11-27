@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 9 |
+| 11 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [games](#games) (1)
@@ -30,6 +30,7 @@
 |---|---------|------------|----------|
 | 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.cpp) |
 | 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.cpp) |
+| 2292D | [Unexpected Precipitation](https://codeforces.com/contest/2292/problem/D) | Unrated | [C++20 (GCC 13-64)](https://github.com/abhijeet-gupta0708/CodeChef-Problem-/blob/HEAD/2292/D%20-%20Unexpected%20Precipitation/solution.cpp) |
 
 ### brute force
 
